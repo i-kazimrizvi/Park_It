@@ -12,7 +12,7 @@ Features -
 1)Reminders
 Set reminders in a click so that you don't get overcharged for parking. Receive a notification whenever the time is up.
 
-2) Fast Coordinates Retrieval
+2)Fast Coordinates Retrieval
 Park It tries to fetch your coordinates from all the sources possible so that your position gets locked in a moment.
 
 3)One Tap Parking
