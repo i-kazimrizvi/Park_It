@@ -1,6 +1,8 @@
 # Park_It
 Park It is an android app that helps you to simplify your parking!
 
+Google Play : https://play.google.com/store/apps/details?id=com.mizaklabs.www.parkit
+
 ![#Screenshots](https://lh3.googleusercontent.com/k3TOdXCW2A0jNFbSKicEc0OjAl5NQ6JZiEhNTerRDzRPVw19v4u4aBdrz2UILdBJr4g=w1920-h929-rw)
 
 ![#Screenshots](https://lh3.googleusercontent.com/nmiiZe0wvSBVdL2_-JY_M3mw5aMrHBAMevMdeWh68mZ1LQjvm369K1mqq3YMOTJ7528=w1920-h929-rw)
