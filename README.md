@@ -5,14 +5,6 @@ Google Play : https://play.google.com/store/apps/details?id=com.mizaklabs.www.pa
 
 Contact for source code!
 
-![#Screenshots](https://lh3.googleusercontent.com/k3TOdXCW2A0jNFbSKicEc0OjAl5NQ6JZiEhNTerRDzRPVw19v4u4aBdrz2UILdBJr4g=w1920-h929-rw)
-
-![#Screenshots](https://lh3.googleusercontent.com/nmiiZe0wvSBVdL2_-JY_M3mw5aMrHBAMevMdeWh68mZ1LQjvm369K1mqq3YMOTJ7528=w1920-h929-rw)
-
-![#Screenshots](https://lh3.googleusercontent.com/V4o2m40o1DtUDF5scFYGJTsCRUP20TkGcwDtI6Owx4FYHg6smFC9xA_1iGR7tJPgOfs=w1920-h929-rw)
-
-![#Screenshots](https://lh3.googleusercontent.com/GH0u9AqeqAwVBovowB1_7iMbRp0TYtcBiHbDW7WM_jNTA8G7ylRP8F7MMgq3CMN9wEQ=w1920-h929-rw)
-
 
 For people having issues with parking or not, this app can help everyone to make their parking job easy.
 
@@ -38,3 +30,14 @@ Use the beautifully integrated map to find the exact spot along with having the 
 
 6)Navigation
 Navigate to the parking spot with a single click
+
+
+![#Screenshots](https://lh3.googleusercontent.com/k3TOdXCW2A0jNFbSKicEc0OjAl5NQ6JZiEhNTerRDzRPVw19v4u4aBdrz2UILdBJr4g=w1920-h929-rw)
+
+![#Screenshots](https://lh3.googleusercontent.com/nmiiZe0wvSBVdL2_-JY_M3mw5aMrHBAMevMdeWh68mZ1LQjvm369K1mqq3YMOTJ7528=w1920-h929-rw)
+
+![#Screenshots](https://lh3.googleusercontent.com/V4o2m40o1DtUDF5scFYGJTsCRUP20TkGcwDtI6Owx4FYHg6smFC9xA_1iGR7tJPgOfs=w1920-h929-rw)
+
+![#Screenshots](https://lh3.googleusercontent.com/GH0u9AqeqAwVBovowB1_7iMbRp0TYtcBiHbDW7WM_jNTA8G7ylRP8F7MMgq3CMN9wEQ=w1920-h929-rw)
+
+
